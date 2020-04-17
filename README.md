@@ -7,4 +7,4 @@ Courses Undertaken:
 
 **2. Introduction to Machine Learning (IBM)** --> Belonging to the IBM Data Science Professional Certification. 
 
-**3 Data Visualization with Python (IBM) **
+**3 Data Visualization with Python (IBM)**
